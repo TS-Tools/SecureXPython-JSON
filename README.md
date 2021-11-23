@@ -11,7 +11,7 @@ Writes response to local json file, then we parse the json data for what we are 
 ## Requirements or Prerequisites
 
 All of the tools contained here were written in Python, V3 unless specified.
-
+Follow the instructions at the link above to use the TR API. 
 
 ## Usage
 
