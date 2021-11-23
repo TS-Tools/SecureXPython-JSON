@@ -20,7 +20,7 @@ Then execute the Crunch script to format.
 
 If any issues with crunch script make sure your input file is SecureX.Json, that the file output.txt exists and the persmissions and ownership is correct
 
-## Acknoledgements
+## Acknowledgements
 
 The Cisco Devnet/Threat Response Team (Ben Greenbaum, Christopher Van Der Made)
 
